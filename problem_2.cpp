@@ -43,4 +43,4 @@ int main() {
 }
 
 //Time : O(n)
-//space: O(n)
+//space: O(1)
